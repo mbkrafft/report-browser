@@ -1,0 +1,16 @@
+/*Menu Buttons*/
+
+.content-center {
+    margin-top: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* text */
+@media only screen and (min-width: 530px){
+   .center-item {
+    display: flex;
+    justify-content: center;
+    min-width: 40%;
+} 
+}

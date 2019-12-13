@@ -1,0 +1,22 @@
+{
+  "name": "data-set-report-browser",
+  "version": "1.0.0",
+  "description": "web app enabling users to intuitively browse available data set reports",
+  "developer": {
+    "name": "IN5320 - 2019 - Group 21"
+  },
+  "license": "BSD-3-Clause",
+  "private": false,
+  "scripts": {
+    "build": "d2-app-scripts build",
+    "start": "d2-app-scripts start",
+    "test": "d2-app-scripts test"
+  },
+  "devDependencies": {
+    "@dhis2/cli-app-scripts": "^1.5.4"
+  },
+  "dependencies": {
+    "@dhis2/app-runtime": "^2.0.2",
+    "d2": "^31.8.1"
+  }
+}

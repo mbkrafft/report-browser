@@ -1,0 +1,84 @@
+{
+  "dataSetDurations": {
+    "ART monthly summary": "Monthly",
+    "Child Health": "Monthly",
+    "Clinical Monitoring Checklist ": "Yearly",
+    "Emergency Response": "Monthly",
+    "EPI Stock": "Monthly",
+    "Expenditures": "Yearly",
+    "Facility Assessment": "Yearly",
+    "HIV Care Monthly": "Monthly",
+    "HIV Peadiatric monthly summary": "Monthly",
+    "IDSR Weekly": "Weekly",
+    "IDSR Weekly (Start Wednesday)": "Weekly",
+    "Inpatient Morbidity/Mortality Summary": "Monthly",
+    "Life-Saving Commodities": "Monthly",
+    "MNCH Quarterly Report": "Quarterly",
+    "Morbidity": "Monthly",
+    "Mortality": "Monthly",
+    "Mortality < 5 years": "Monthly",
+    "Mortality < 5 years by age group": "Monthly",
+    "Mortality < 5 years by gender": "Monthly",
+    "Mortality < 5 years Narratives": "Yearly",
+    "PMTCT monthly summary": "Monthly",
+    "Population": "Daily",
+    "Project Management": "none",
+    "Reproductive Health": "Monthly",
+    "Staffing": "Daily",
+    "TB Facility Reporting Form": "none",
+    "TB/HIV (VCCT) monthly summary": "Monthly"
+  },
+  "periodOptions": {
+    "Yearly": [
+      "Financial Year April",
+      "Financial Year July",
+      "Financial Year October"
+    ],
+    "Monthly": ["Bi-Monthly", "Quarterly", "Six-Monthly", "Six-Monthly April"],
+    "Weekly": [
+      "Start Wednesday",
+      "Start Thursday",
+      "Start Saturday",
+      "Start Sunday",
+      "Bi-Weekly"
+    ],
+    "Daily": []
+  },
+  "modifiers": {
+    "undefined": "",
+    "Financial Year April": "April",
+    "Financial Year July": "July",
+    "Financial Year October": "Oct",
+    "Bi-Monthly": "B",
+    "Quarterly": "Q",
+    "Six-Monthly": "S",
+    "Six-Monthly April": "AprilS",
+    "Start Wednesday": "Wed",
+    "Start Thursday": "Thu",
+    "Start Saturday": "Sat",
+    "Start Sunday": "Sun",
+    "Bi-Weekly": "Bi"
+  },
+  "seasonals": {
+    "Quarterly": "4",
+    "Six-Monthly": "2",
+    "Six-Monthly April": "2"
+  },
+  "periods": {
+    "Yearly": ["2019", "2018", "2017", "2016", "2015", "2014"],
+    "Monthly": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ]
+  }
+}
